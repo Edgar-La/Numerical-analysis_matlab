@@ -43,5 +43,3 @@ endfor
 fprintf('\nThe equations matrix:\n'); disp(A)
 fprintf('\nThe column vector:\n'); disp(b')
 fprintf('The results vector:\n'); disp(X')
-
-

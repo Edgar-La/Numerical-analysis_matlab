@@ -4,8 +4,8 @@
 %graphics_toolkit ("gnuplot")
 clear all;
 clc;
-%clf;
-%hold on;
+clf;
+hold on;
 fclose('all');
 
 %%Open (using file browser) and read .txt

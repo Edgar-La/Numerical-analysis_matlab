@@ -1,6 +1,6 @@
 # Regression analysis codes
 
-This folder contains three different regressiion codes: linear, polynomial and exponential.
+This folder contains three different regression codes: linear, polynomial and exponential.
 
 ## Linear regression
 You can see the code [here](https://github.com/Edgar-La/Numerical-analysis_matlab/blob/master/Regression_analysis/Linear_regression.m).
